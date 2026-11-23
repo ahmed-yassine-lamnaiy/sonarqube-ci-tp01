@@ -1,1 +1,0 @@
-# sonarqube-ci-tp01
